@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**Mr-Torugo/Mr-Torugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Bem-vindo ao meu perfil!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚧 Em Construção 🚧
+
+Este perfil está passando por reformas, logo logo terá novidades incríveis por aqui!  
+
+Enquanto isso...  
+- 🛠️ Trabalhando em novos projetos  
+- 📚 Aprendendo e evoluindo sempre  
+- 🌎 Preparando conteúdos legais para compartilhar  
+
+---
+
+✨ Fique de olho, em breve terá muito mais por aqui!  
+
+
+![Snake animation](https://github.com/Mr-torugo/Mr-torugo/blob/output/github-contribution-grid-snake.svg)
