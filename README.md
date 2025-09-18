@@ -18,4 +18,3 @@ Enquanto isso...
 ✨ Fique de olho, em breve terá muito mais por aqui!  
 
 
-![Snake animation](https://github.com/Mr-torugo/Mr-Torugo/blob/output/github-contribution-grid-snake.svg)
