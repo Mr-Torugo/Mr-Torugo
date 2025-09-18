@@ -3,7 +3,9 @@
 
 ---
 
-## 🚧 Em Construção 🚧
+# 🚧 Em Construção 🚧
+
+![const](https://github.com/user-attachments/assets/98b96787-a853-40df-85c8-5356b4a01788)
 
 Este perfil está passando por reformas, logo logo terá novidades incríveis por aqui!  
 
