@@ -16,6 +16,6 @@ Enquanto isso estou...
 
 ✨ Fique de olho, em breve terá muito mais por aqui!  
 
-![Snake animation](https://github.com/Mr-Torugo/Mr-Torugo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Mr-Torugo/Mr-Torugo/blob/output/snake.svg)
 
 
