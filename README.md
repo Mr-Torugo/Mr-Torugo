@@ -18,6 +18,8 @@ Enquanto isso estou...
 
 ✨ Fique de olho, em breve terá muito mais por aqui!  
 
+---
+
 ![const](https://github.com/user-attachments/assets/98b96787-a853-40df-85c8-5356b4a01788)
 
 ![Snake animation](https://github.com/Mr-Torugo/Mr-Torugo/blob/output/snake.svg)
