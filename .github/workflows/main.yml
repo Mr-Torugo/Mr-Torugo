@@ -1,27 +1,30 @@
-name: Snake Game
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # Atualiza a cada 12h
+    - cron: "0 */12 * * *"   # Gera a cobrinha a cada 12h
   workflow_dispatch:         # Permite rodar manualmente
+  push:
+    branches:
+      - main                 # Troque "main" por "master" se for o seu caso
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v2
 
-      - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
         with:
-          github_user_name: Mr-Torugo   # <-- Troque pelo seu usuário
+          github_user_name: Mr-Torugo
           outputs: dist/snake.svg
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Push Snake Animation to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
-          publish_dir: dist
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
