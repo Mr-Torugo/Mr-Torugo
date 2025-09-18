@@ -7,7 +7,7 @@
 
 Este perfil está passando por reformas, logo logo terá novidades incríveis por aqui!  
 
-Enquanto isso...  
+Enquanto isso estou...  
 - 🛠️ Trabalhando em novos projetos  
 - 📚 Aprendendo e evoluindo sempre  
 - 🌎 Preparando conteúdos legais para compartilhar  
